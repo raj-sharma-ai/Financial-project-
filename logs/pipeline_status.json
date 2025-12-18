@@ -1,0 +1,16 @@
+{
+  "start_time": "2025-12-15T11:18:40.762481",
+  "end_time": "2025-12-15T11:30:15.698628",
+  "duration_seconds": 694.936147,
+  "data_gathering": {
+    "success": true,
+    "attempts": 1,
+    "error": null
+  },
+  "feature_engineering": {
+    "success": true,
+    "attempts": 1,
+    "error": null
+  },
+  "overall_success": true
+}

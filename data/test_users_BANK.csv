@@ -1,0 +1,16 @@
+customer_id,age,gender,citytier,annualincome,occupation,creditscore,avgmonthlyspend,savingsrate,investmentamountlastyear,pastinvestments,familysize,numchildren,numelders,numadults
+1,28,M,1,450000,salaried,720,25000,0.2,60000,MF,3,0,1,2
+2,30,F,2,520000,salaried,690,28000,0.18,75000,stocks,4,1,1,2
+3,32,M,1,850000,business,740,42000,0.25,120000,insurance,5,2,1,2
+4,35,F,3,600000,self employed,670,30000,0.15,50000,MF,3,1,0,2
+5,38,M,2,950000,business,760,50000,0.3,200000,stocks,4,2,0,2
+6,40,F,1,700000,salaried,710,35000,0.22,90000,insurance,4,1,1,2
+7,42,M,2,1100000,business,780,60000,0.35,250000,MF,6,2,2,2
+8,45,F,3,480000,self employed,650,26000,0.12,40000,insurance,3,0,1,2
+9,47,M,1,1250000,business,800,70000,0.4,300000,stocks,5,2,1,2
+10,50,F,2,650000,salaried,700,34000,0.2,85000,MF,4,1,1,2
+11,52,M,3,580000,self employed,660,29000,0.14,55000,insurance,3,0,1,2
+12,54,F,1,900000,business,750,48000,0.28,180000,stocks,4,1,0,3
+13,55,M,2,720000,salaried,705,36000,0.21,95000,MF,5,2,1,2
+14,33,F,1,680000,salaried,715,33000,0.19,88000,stocks,4,1,1,2
+15,36,M,2,820000,self employed,735,41000,0.23,110000,insurance,5,2,0,3

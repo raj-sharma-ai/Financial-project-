@@ -1,0 +1,2186 @@
+[
+  {
+    "fund_name": "IDBI India Top 100 Eqty -Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-india-top-100-equity-fund-direct-plan/MIB092",
+    "engineered_vector": [
+      0.583846,
+      0.2413,
+      0.096719,
+      0.995268,
+      1.0,
+      0.3,
+      0.351
+    ],
+    "metadata": {
+      "aum": 19.3,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI India Top 100 Equity Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-india-top-100-equity-fund/MIB062",
+    "engineered_vector": [
+      0.583887,
+      0.2284,
+      0.210999,
+      0.995268,
+      1.0,
+      0.3,
+      0.33636
+    ],
+    "metadata": {
+      "aum": 397.87,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Baroda Pioneer Large Cap - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-large-cap-fund-direct-plan-b/MBO092",
+    "engineered_vector": [
+      0.584116,
+      0,
+      0.031235,
+      0.995268,
+      1.0,
+      0.274644,
+      -0.2
+    ],
+    "metadata": {
+      "aum": 2.87,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Baroda Pioneer Large Cap (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-large-cap-fund/MBO046",
+    "engineered_vector": [
+      0.584142,
+      0,
+      0.120473,
+      0.995268,
+      1.0,
+      0.270394,
+      -0.2
+    ],
+    "metadata": {
+      "aum": 38.56,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Large Cap Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-large-cap-fund-direct-plan/MTA788",
+    "engineered_vector": [
+      0.532466,
+      0.1022,
+      0.1596,
+      0.92429,
+      1.0,
+      0.267825,
+      0.12672
+    ],
+    "metadata": {
+      "aum": 101.5,
+      "expense_ratio": 0.0097,
+      "sharpe_ratio": 0.7,
+      "beta": 0.98,
+      "std_dev": 12.1
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Union Equity Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-equity-fund-direct-plan/MUK027",
+    "engineered_vector": [
+      0.560999,
+      0.3286,
+      0.092735,
+      0.954259,
+      0.65,
+      0.3,
+      0.4554
+    ],
+    "metadata": {
+      "aum": 16.57,
+      "expense_ratio": 0.0092,
+      "sharpe_ratio": 0.71,
+      "beta": 0.91,
+      "std_dev": 12.48
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Union Equity Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-equity-fund/MUK001",
+    "engineered_vector": [
+      0.583829,
+      0.3183,
+      0.21627,
+      0.995268,
+      1.0,
+      0.3,
+      0.44208
+    ],
+    "metadata": {
+      "aum": 452.06,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Flexi Cap Fund - DP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-flexi-cap-fund-direct-plan/MIB216",
+    "engineered_vector": [
+      0.583817,
+      0.2324,
+      0.086825,
+      0.995268,
+      0.6,
+      0.3,
+      0.31476
+    ],
+    "metadata": {
+      "aum": 14.62,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Flexi Cap Fund - RP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-flexi-cap-fund-regular-plan/MIB214",
+    "engineered_vector": [
+      0.583864,
+      0.2178,
+      0.200932,
+      0.995268,
+      0.6,
+      0.3,
+      0.2988
+    ],
+    "metadata": {
+      "aum": 304.83,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Canara Robeco Flexi Cap Fund - D - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-flexi-cap-fund-direct-plan/MCA202",
+    "engineered_vector": [
+      0.512815,
+      0.0778,
+      0.194881,
+      0.917192,
+      0.6,
+      0.3,
+      0.03248
+    ],
+    "metadata": {
+      "aum": 252.88,
+      "expense_ratio": 0.0053,
+      "sharpe_ratio": 0.78,
+      "beta": 0.9,
+      "std_dev": 12.01
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Mirae Asset Large & Midcap Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-large-midcap-fund-direct-plan-growth/MMA100",
+    "engineered_vector": [
+      0.518054,
+      0.0939,
+      0.303407,
+      1,
+      0.5,
+      0.3,
+      0.04776
+    ],
+    "metadata": {
+      "aum": 4655.33,
+      "expense_ratio": 0.0057,
+      "sharpe_ratio": 0.8,
+      "beta": 0.98,
+      "std_dev": 13.55
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Large & Mid Cap Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-large-mid-cap-fund-direct-plan-growth/MLI560",
+    "engineered_vector": [
+      0.495301,
+      0.0381,
+      0.226127,
+      1,
+      0.5,
+      0.3,
+      -0.10216
+    ],
+    "metadata": {
+      "aum": 643.12,
+      "expense_ratio": 0.0061,
+      "sharpe_ratio": 1.18,
+      "beta": 1.0,
+      "std_dev": 14.71
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Mirae Asset Large & Midcap Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-large-midcap-fund-growth/MMA088",
+    "engineered_vector": [
+      0.604999,
+      0.0851,
+      0.336188,
+      1,
+      0.5,
+      0.168775,
+      0.04336
+    ],
+    "metadata": {
+      "aum": 10968.58,
+      "expense_ratio": 0.015,
+      "sharpe_ratio": 0.73,
+      "beta": 0.98,
+      "std_dev": 13.54
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Large & Mid Cap Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-large-mid-cap-fund-growth/MLI099",
+    "engineered_vector": [
+      0.601741,
+      0.026,
+      0.285141,
+      1,
+      0.5,
+      0.126215,
+      -0.11104
+    ],
+    "metadata": {
+      "aum": 3004.43,
+      "expense_ratio": 0.0175,
+      "sharpe_ratio": 1.1,
+      "beta": 1.0,
+      "std_dev": 14.7
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Equity Opportunities - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-large-midcap-fund-direct-plan/MKM522",
+    "engineered_vector": [
+      0.523249,
+      0.0772,
+      0.228956,
+      0.977918,
+      1.0,
+      0.3,
+      0.02032
+    ],
+    "metadata": {
+      "aum": 635.9,
+      "expense_ratio": 0.0053,
+      "sharpe_ratio": 0.99,
+      "beta": 0.9,
+      "std_dev": 12.78
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Midcap - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-midcap-fund-direct-plan/MLI556",
+    "engineered_vector": [
+      0.500757,
+      0.0825,
+      0.18724,
+      1,
+      0.5,
+      0.3,
+      -0.0488
+    ],
+    "metadata": {
+      "aum": 244.85,
+      "expense_ratio": 0.0054,
+      "sharpe_ratio": 1.27,
+      "beta": 0.95,
+      "std_dev": 16.05
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Midcap (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-midcap-fund/MLI021",
+    "engineered_vector": [
+      0.611148,
+      0.0693,
+      0.243912,
+      1,
+      0.5,
+      0.139819,
+      -0.05856
+    ],
+    "metadata": {
+      "aum": 1077.4,
+      "expense_ratio": 0.0173,
+      "sharpe_ratio": 1.2,
+      "beta": 0.95,
+      "std_dev": 16.03
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Mid Cap Growth - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-mid-cap-growth-fund-direct-plan/MTA776",
+    "engineered_vector": [
+      0.535912,
+      0.0795,
+      0.154513,
+      1,
+      0.5,
+      0.3,
+      -0.0
+    ],
+    "metadata": {
+      "aum": 99.2,
+      "expense_ratio": 0.0062,
+      "sharpe_ratio": 1.05,
+      "beta": 0.9,
+      "std_dev": 14.56
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Mid Cap - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-blackrock-mid-cap-fund-direct-plan/MDS574",
+    "engineered_vector": [
+      0.52827,
+      0.0549,
+      0.264064,
+      1,
+      0.5,
+      0.3,
+      -0.01896
+    ],
+    "metadata": {
+      "aum": 1869.7,
+      "expense_ratio": 0.0067,
+      "sharpe_ratio": 0.84,
+      "beta": 0.97,
+      "std_dev": 16.11
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Mid Cap Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-mid-cap-fund-direct-plan/MAA194",
+    "engineered_vector": [
+      0.559955,
+      0.0209,
+      0.284318,
+      1,
+      0.5,
+      0.3,
+      -0.08016
+    ],
+    "metadata": {
+      "aum": 2910.39,
+      "expense_ratio": 0.0055,
+      "sharpe_ratio": 0.91,
+      "beta": 0.83,
+      "std_dev": 14.21
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Small Cap Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-small-cap-fund-direct-plan/MAA316",
+    "engineered_vector": [
+      0.606194,
+      0,
+      0.259136,
+      1,
+      0.2,
+      0.3,
+      -0.1896
+    ],
+    "metadata": {
+      "aum": 1529.0,
+      "expense_ratio": 0.0056,
+      "sharpe_ratio": 0.86,
+      "beta": 0.7,
+      "std_dev": 14.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Small Cap Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-small-cap-fund-regular-plan/MAA314",
+    "engineered_vector": [
+      0.702655,
+      0,
+      0.278461,
+      1,
+      0.2,
+      0.122515,
+      -0.19832
+    ],
+    "metadata": {
+      "aum": 2541.05,
+      "expense_ratio": 0.0159,
+      "sharpe_ratio": 0.78,
+      "beta": 0.7,
+      "std_dev": 14.32
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Union SCF -DP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/union-small-cap-fund-direct-plan/MUK091",
+    "engineered_vector": [
+      0.604511,
+      0,
+      0.080475,
+      1,
+      0.35,
+      0.229046,
+      -0.2
+    ],
+    "metadata": {
+      "aum": 15.71,
+      "expense_ratio": 0.0095,
+      "sharpe_ratio": 0.74,
+      "beta": 0.83,
+      "std_dev": 17.4
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Small Cap Fund - DP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-small-cap-fund-direct-plan-/MSA031",
+    "engineered_vector": [
+      0.637707,
+      0,
+      0.274393,
+      1,
+      0.2,
+      0.261337,
+      -0.18128
+    ],
+    "metadata": {
+      "aum": 2317.48,
+      "expense_ratio": 0.0075,
+      "sharpe_ratio": 0.57,
+      "beta": 0.7,
+      "std_dev": 14.3
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Small Cap Fund - DP - (IDCW)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-small-cap-fund-direct-plan-idcw-/MSA032",
+    "engineered_vector": [
+      0.637707,
+      0,
+      0.274393,
+      1,
+      0.2,
+      0.261337,
+      -0.18128
+    ],
+    "metadata": {
+      "aum": 2317.48,
+      "expense_ratio": 0.0075,
+      "sharpe_ratio": 0.57,
+      "beta": 0.7,
+      "std_dev": 14.3
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "UTI Value Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-value-fund-direct-plan-growth/MUT635",
+    "engineered_vector": [
+      0.569463,
+      0.1002,
+      0.212212,
+      0.950315,
+      1.0,
+      0.225207,
+      0.10908
+    ],
+    "metadata": {
+      "aum": 403.45,
+      "expense_ratio": 0.0118,
+      "sharpe_ratio": 0.91,
+      "beta": 0.92,
+      "std_dev": 12.43
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "UTI Value Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/uti-value-fund-growth/MUT072",
+    "engineered_vector": [
+      0.629678,
+      0.0916,
+      0.309369,
+      0.949527,
+      1.0,
+      0.107209,
+      0.09756
+    ],
+    "metadata": {
+      "aum": 5076.21,
+      "expense_ratio": 0.0182,
+      "sharpe_ratio": 0.85,
+      "beta": 0.92,
+      "std_dev": 12.42
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Equity P/E Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-value-fund-direct-plan/MTA732",
+    "engineered_vector": [
+      0.540511,
+      0.0779,
+      0.231894,
+      1,
+      1.0,
+      0.283825,
+      0.02968
+    ],
+    "metadata": {
+      "aum": 733.91,
+      "expense_ratio": 0.0081,
+      "sharpe_ratio": 0.91,
+      "beta": 1.04,
+      "std_dev": 13.99
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Nippon Value Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-value-fund/MRC098",
+    "engineered_vector": [
+      0.616545,
+      0.0479,
+      0.290017,
+      1,
+      1.0,
+      0.102192,
+      -0.038
+    ],
+    "metadata": {
+      "aum": 3267.78,
+      "expense_ratio": 0.0182,
+      "sharpe_ratio": 1.0,
+      "beta": 1.01,
+      "std_dev": 13.7
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak India EQ Contra Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-eq-contra-fund-direct-plan/MKM530",
+    "engineered_vector": [
+      0.504588,
+      0.0923,
+      0.169701,
+      1,
+      1.0,
+      0.3,
+      0.03208
+    ],
+    "metadata": {
+      "aum": 138.16,
+      "expense_ratio": 0.0057,
+      "sharpe_ratio": 1.06,
+      "beta": 0.98,
+      "std_dev": 13.25
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak India EQ Contra Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-india-eq-contra-fund-regular-plan/MKM077",
+    "engineered_vector": [
+      0.623714,
+      0.0783,
+      0.236226,
+      1,
+      1.0,
+      0.103722,
+      0.02176
+    ],
+    "metadata": {
+      "aum": 789.21,
+      "expense_ratio": 0.0184,
+      "sharpe_ratio": 0.96,
+      "beta": 0.98,
+      "std_dev": 13.24
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Contra - Dir (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra-fund-direct-plan/MLI566",
+    "engineered_vector": [
+      0.502415,
+      0.0791,
+      0.261176,
+      1,
+      1.0,
+      0.3,
+      0.05088
+    ],
+    "metadata": {
+      "aum": 1528.16,
+      "expense_ratio": 0.0053,
+      "sharpe_ratio": 0.97,
+      "beta": 0.99,
+      "std_dev": 13.49
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Contra (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-contra-fund/MLI019",
+    "engineered_vector": [
+      0.605218,
+      0.0673,
+      0.305436,
+      1,
+      1.0,
+      0.133373,
+      0.03756
+    ],
+    "metadata": {
+      "aum": 4858.39,
+      "expense_ratio": 0.0163,
+      "sharpe_ratio": 0.89,
+      "beta": 0.99,
+      "std_dev": 13.47
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Focused Equity Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-focused-equity-fund-direct-plan/MSB536",
+    "engineered_vector": [
+      0.540915,
+      0.1741,
+      0.290408,
+      0.813091,
+      1.0,
+      0.3,
+      0.2472
+    ],
+    "metadata": {
+      "aum": 2713.94,
+      "expense_ratio": 0.0077,
+      "sharpe_ratio": 1.03,
+      "beta": 0.73,
+      "std_dev": 10.69
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Focused Equity Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-focused-equity-fund/MSB059",
+    "engineered_vector": [
+      0.614768,
+      0.1641,
+      0.343697,
+      0.812303,
+      1.0,
+      0.19249,
+      0.23436
+    ],
+    "metadata": {
+      "aum": 10904.74,
+      "expense_ratio": 0.0155,
+      "sharpe_ratio": 0.95,
+      "beta": 0.73,
+      "std_dev": 10.68
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Focused Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-focused-fund-direct-plan-growth/MAA183",
+    "engineered_vector": [
+      0.576263,
+      0.0115,
+      0.294467,
+      1,
+      0.65,
+      0.275754,
+      -0.05376
+    ],
+    "metadata": {
+      "aum": 3761.7,
+      "expense_ratio": 0.0083,
+      "sharpe_ratio": 0.42,
+      "beta": 0.93,
+      "std_dev": 13.42
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Focused Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-focused-fund-growth/MAA169",
+    "engineered_vector": [
+      0.661033,
+      0.0033,
+      0.336043,
+      1,
+      1.0,
+      0.108542,
+      -0.058
+    ],
+    "metadata": {
+      "aum": 11136.65,
+      "expense_ratio": 0.0174,
+      "sharpe_ratio": 0.35,
+      "beta": 0.93,
+      "std_dev": 13.41
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Principal Focused Multicap Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sundaram-focused-fund-direct-plan/MID318",
+    "engineered_vector": [
+      0.596,
+      0.0527,
+      0.121664,
+      0.863565,
+      0.6,
+      0.18721,
+      0.0396
+    ],
+    "metadata": {
+      "aum": 35.47,
+      "expense_ratio": 0.0129,
+      "sharpe_ratio": 0.63,
+      "beta": 0.82,
+      "std_dev": 11.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Bank of India Manufacturing & Infrastructure Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/bank-of-india-manufacturing-infrastructure-fund-direct-plan-growth/MBA068",
+    "engineered_vector": [
+      0.536953,
+      0.0478,
+      0.067724,
+      1,
+      0.65,
+      0.3,
+      -0.07904
+    ],
+    "metadata": {
+      "aum": 10.23,
+      "expense_ratio": 0.0063,
+      "sharpe_ratio": 1.11,
+      "beta": 0.89,
+      "std_dev": 16.3
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Bank of India Manufacturing & Infrastructure Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/bank-of-india-manufacturing-infrastructure-fund-growth/MBA057",
+    "engineered_vector": [
+      0.686063,
+      0.0321,
+      0.108895,
+      1,
+      0.65,
+      0.023706,
+      -0.09024
+    ],
+    "metadata": {
+      "aum": 31.97,
+      "expense_ratio": 0.0224,
+      "sharpe_ratio": 1.02,
+      "beta": 0.89,
+      "std_dev": 16.29
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Can Robeco Infrastructure-Direct(G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-infrastructure-direct-plan/MCA214",
+    "engineered_vector": [
+      0.568199,
+      0,
+      0.064011,
+      1,
+      0.65,
+      0.242398,
+      -0.19512
+    ],
+    "metadata": {
+      "aum": 9.64,
+      "expense_ratio": 0.0098,
+      "sharpe_ratio": 1.05,
+      "beta": 0.9,
+      "std_dev": 17.37
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Ethical Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-ethical-fund-direct-plan/MTA735",
+    "engineered_vector": [
+      0.533416,
+      0.0579,
+      0.167313,
+      0.992114,
+      0.65,
+      0.290008,
+      0.1068
+    ],
+    "metadata": {
+      "aum": 133.32,
+      "expense_ratio": 0.0065,
+      "sharpe_ratio": 0.44,
+      "beta": 1.0,
+      "std_dev": 12.96
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Can Robeco Infrastructure (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-infrastructure/MCA040",
+    "engineered_vector": [
+      0.687177,
+      0,
+      0.153515,
+      1,
+      0.65,
+      0.007269,
+      -0.2
+    ],
+    "metadata": {
+      "aum": 108.6,
+      "expense_ratio": 0.0226,
+      "sharpe_ratio": 0.97,
+      "beta": 0.9,
+      "std_dev": 17.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Income Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-income-fund-direct-plan/MTA755",
+    "engineered_vector": [
+      0.584347,
+      0.0105,
+      0.069724,
+      0.995268,
+      0.65,
+      0.241728,
+      -0.0208
+    ],
+    "metadata": {
+      "aum": 9.95,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.0,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "ICICI Pru Bond Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-bond-fund/MPI501",
+    "engineered_vector": [
+      0.267434,
+      0.0525,
+      0.385269,
+      0.125394,
+      1.0,
+      0.25903,
+      0.04284
+    ],
+    "metadata": {
+      "aum": 2052.0,
+      "expense_ratio": 0.0103,
+      "sharpe_ratio": 0.44,
+      "beta": 1.01,
+      "std_dev": 1.97
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Nippon Income Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-medium-to-long-duration-fund-direct-plan/MRC946",
+    "engineered_vector": [
+      0.321164,
+      0.0486,
+      0.244754,
+      0.160883,
+      0.35,
+      0.3,
+      0.03864
+    ],
+    "metadata": {
+      "aum": 87.28,
+      "expense_ratio": 0.0067,
+      "sharpe_ratio": 0.34,
+      "beta": 1.22,
+      "std_dev": 2.42
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Nippon Income Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-medium-to-long-duration-fund/MRC002",
+    "engineered_vector": [
+      0.413053,
+      0.0394,
+      0.287748,
+      0.160095,
+      0.65,
+      0.16291,
+      0.02664
+    ],
+    "metadata": {
+      "aum": 272.57,
+      "expense_ratio": 0.0153,
+      "sharpe_ratio": -0.03,
+      "beta": 1.22,
+      "std_dev": 2.41
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Strategic Bond Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-strategic-bond-fund-direct-plan/MAA187",
+    "engineered_vector": [
+      0.158042,
+      0.0795,
+      0.367191,
+      0.062303,
+      1.0,
+      0.3,
+      0.08592
+    ],
+    "metadata": {
+      "aum": 284.11,
+      "expense_ratio": 0.0071,
+      "sharpe_ratio": 1.73,
+      "beta": 0.97,
+      "std_dev": 1.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "ICICI Pru Medium Term Bond (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/icici-prudential-medium-term-bond-fund/MPI098",
+    "engineered_vector": [
+      0.278078,
+      0.0809,
+      0.490807,
+      0.050473,
+      1.0,
+      0.205333,
+      0.09576
+    ],
+    "metadata": {
+      "aum": 4879.08,
+      "expense_ratio": 0.0138,
+      "sharpe_ratio": 1.18,
+      "beta": 0.86,
+      "std_dev": 1.02
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Strategic Bond Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-strategic-bond-fund-regular-plan/MAA152",
+    "engineered_vector": [
+      0.238937,
+      0.072,
+      0.411553,
+      0.062303,
+      1.0,
+      0.213728,
+      0.07524
+    ],
+    "metadata": {
+      "aum": 933.58,
+      "expense_ratio": 0.0132,
+      "sharpe_ratio": 1.15,
+      "beta": 0.98,
+      "std_dev": 1.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HDFC Medium Term Debt Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hdfc-medium-term-debt-fund-direct-plan/MHD1197",
+    "engineered_vector": [
+      0.197999,
+      0.0744,
+      0.401722,
+      0.069401,
+      0.65,
+      0.3,
+      0.08196
+    ],
+    "metadata": {
+      "aum": 895.98,
+      "expense_ratio": 0.0067,
+      "sharpe_ratio": 1.18,
+      "beta": 1.07,
+      "std_dev": 1.26
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Magnum Medium Duration Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-medium-duration-fund-direct-plan/MSB493",
+    "engineered_vector": [
+      0.175974,
+      0.073,
+      0.423704,
+      0.063091,
+      1.0,
+      0.3,
+      0.0804
+    ],
+    "metadata": {
+      "aum": 1307.35,
+      "expense_ratio": 0.0071,
+      "sharpe_ratio": 1.25,
+      "beta": 0.99,
+      "std_dev": 1.18
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Dynamic Bond Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-dynamic-bond-fund-direct-plan/MAA179",
+    "engineered_vector": [
+      0.211264,
+      0.0577,
+      0.343761,
+      0.142744,
+      1.0,
+      0.3,
+      0.04896
+    ],
+    "metadata": {
+      "aum": 905.9,
+      "expense_ratio": 0.0032,
+      "sharpe_ratio": 0.48,
+      "beta": 0.98,
+      "std_dev": 2.19
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Dynamic Bond Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-dynamic-bond-fund-regular-plan/MAA105",
+    "engineered_vector": [
+      0.24588,
+      0.0546,
+      0.328636,
+      0.142744,
+      1.0,
+      0.3,
+      0.04656
+    ],
+    "metadata": {
+      "aum": 617.86,
+      "expense_ratio": 0.0063,
+      "sharpe_ratio": 0.33,
+      "beta": 0.98,
+      "std_dev": 2.19
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Dynamic Bond Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-dynamic-bond-fund-direct-plan/MSB528",
+    "engineered_vector": [
+      0.276456,
+      0.0524,
+      0.330417,
+      0.166404,
+      0.65,
+      0.3,
+      0.0372
+    ],
+    "metadata": {
+      "aum": 863.16,
+      "expense_ratio": 0.0063,
+      "sharpe_ratio": 0.56,
+      "beta": 1.12,
+      "std_dev": 2.49
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Dynamic Bond Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-dynamic-bond-fund/MSB048",
+    "engineered_vector": [
+      0.361324,
+      0.0435,
+      0.363649,
+      0.166404,
+      0.65,
+      0.187652,
+      0.01696
+    ],
+    "metadata": {
+      "aum": 2095.27,
+      "expense_ratio": 0.0141,
+      "sharpe_ratio": 0.23,
+      "beta": 1.12,
+      "std_dev": 2.49
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Dynamic Bond Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-dynamic-bond-fund-regular-plan/MKM255",
+    "engineered_vector": [
+      0.410564,
+      0.0447,
+      0.339944,
+      0.194795,
+      0.65,
+      0.201301,
+      0.03144
+    ],
+    "metadata": {
+      "aum": 1528.11,
+      "expense_ratio": 0.0133,
+      "sharpe_ratio": 0.14,
+      "beta": 1.25,
+      "std_dev": 2.85
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Short Term Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-short-term-fund-direct-plan/MAA196",
+    "engineered_vector": [
+      0.244324,
+      0.0748,
+      0.525163,
+      0.044953,
+      1.0,
+      0.3,
+      0.07788
+    ],
+    "metadata": {
+      "aum": 9430.67,
+      "expense_ratio": 0.0038,
+      "sharpe_ratio": 1.59,
+      "beta": 1.38,
+      "std_dev": 0.95
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Mirae Asset Short Duration Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/mirae-asset-short-duration-fund-direct-plan-growth/MMA137",
+    "engineered_vector": [
+      0.251798,
+      0.0721,
+      0.374075,
+      0.048107,
+      0.65,
+      0.3,
+      0.07488
+    ],
+    "metadata": {
+      "aum": 212.03,
+      "expense_ratio": 0.0023,
+      "sharpe_ratio": 1.33,
+      "beta": 1.4,
+      "std_dev": 0.99
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Short Duration Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-short-duration-fund-direct-plan-growth/MLI615",
+    "engineered_vector": [
+      0.288448,
+      0.0704,
+      0.428618,
+      0.049685,
+      0.65,
+      0.3,
+      0.07356
+    ],
+    "metadata": {
+      "aum": 944.41,
+      "expense_ratio": 0.0035,
+      "sharpe_ratio": 1.16,
+      "beta": 1.45,
+      "std_dev": 1.01
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Short Term Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-short-term-fund-regular-plan/MAA013",
+    "engineered_vector": [
+      0.323173,
+      0.0682,
+      0.495822,
+      0.045741,
+      0.65,
+      0.286588,
+      0.04512
+    ],
+    "metadata": {
+      "aum": 4701.3,
+      "expense_ratio": 0.0091,
+      "sharpe_ratio": 0.99,
+      "beta": 1.38,
+      "std_dev": 0.96
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Tata Short Term Bond - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/tata-short-term-bond-fund-direct-plan/MTA793",
+    "engineered_vector": [
+      0.277072,
+      0.0661,
+      0.452284,
+      0.052839,
+      0.65,
+      0.3,
+      0.0642
+    ],
+    "metadata": {
+      "aum": 1966.64,
+      "expense_ratio": 0.0034,
+      "sharpe_ratio": 1.13,
+      "beta": 1.41,
+      "std_dev": 1.05
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Nippon Money Market Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund-direct-plan/MRC984",
+    "engineered_vector": [
+      0.28163,
+      0.0707,
+      0.627772,
+      0,
+      1.0,
+      0.3,
+      0.05128
+    ],
+    "metadata": {
+      "aum": 6085.46,
+      "expense_ratio": 0.0022,
+      "sharpe_ratio": 2.83,
+      "beta": 1.73,
+      "std_dev": 0.34
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Franklin India Money Market Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-money-market-fund-direct-plan-growth/MTE365",
+    "engineered_vector": [
+      0.290218,
+      0.0699,
+      0.505986,
+      0,
+      0.65,
+      0.3,
+      0.05072
+    ],
+    "metadata": {
+      "aum": 282.02,
+      "expense_ratio": 0.0014,
+      "sharpe_ratio": 2.62,
+      "beta": 1.76,
+      "std_dev": 0.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HSBC Money Market Fund - DP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hsbc-money-market-fund-direct-plan/MCC303",
+    "engineered_vector": [
+      0.263656,
+      0.0698,
+      0.533338,
+      0,
+      0.65,
+      0.3,
+      0.05112
+    ],
+    "metadata": {
+      "aum": 490.15,
+      "expense_ratio": 0.0015,
+      "sharpe_ratio": 2.45,
+      "beta": 1.66,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Money Market Scheme - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-direct-plan/MKM556",
+    "engineered_vector": [
+      0.277414,
+      0.0696,
+      0.640352,
+      0,
+      1.0,
+      0.3,
+      0.05056
+    ],
+    "metadata": {
+      "aum": 7831.44,
+      "expense_ratio": 0.0021,
+      "sharpe_ratio": 2.71,
+      "beta": 1.71,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Money Market Scheme (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-regular-plan/MKM047",
+    "engineered_vector": [
+      0.301522,
+      0.069,
+      0.584831,
+      0,
+      0.65,
+      0.3,
+      0.0504
+    ],
+    "metadata": {
+      "aum": 1872.45,
+      "expense_ratio": 0.0035,
+      "sharpe_ratio": 2.35,
+      "beta": 1.71,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Treasury Advantage - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-treasury-advantage-fund-direct-plan/MAA199",
+    "engineered_vector": [
+      0.13112,
+      0.0739,
+      0.618477,
+      0,
+      1.0,
+      0.3,
+      0.08472
+    ],
+    "metadata": {
+      "aum": 6569.69,
+      "expense_ratio": 0.0035,
+      "sharpe_ratio": 2.63,
+      "beta": 1.22,
+      "std_dev": 0.38
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "CR Savings Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-savings-fund-direct-plan/MCA250",
+    "engineered_vector": [
+      0.125491,
+      0.0693,
+      0.527626,
+      0,
+      0.65,
+      0.3,
+      0.05056
+    ],
+    "metadata": {
+      "aum": 640.5,
+      "expense_ratio": 0.0021,
+      "sharpe_ratio": 2.07,
+      "beta": 1.18,
+      "std_dev": 0.38
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Low Duration Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-low-duration-fund-direct-plan-growth/MLI602",
+    "engineered_vector": [
+      0.123429,
+      0.0711,
+      0.577881,
+      0,
+      0.65,
+      0.3,
+      0.08232
+    ],
+    "metadata": {
+      "aum": 2017.98,
+      "expense_ratio": 0.0032,
+      "sharpe_ratio": 2.12,
+      "beta": 1.15,
+      "std_dev": 0.36
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Magnum Low Duration - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-magnum-low-duration-fund-direct-plan/MSB570",
+    "engineered_vector": [
+      0.143157,
+      0.0699,
+      0.634707,
+      0,
+      1.0,
+      0.3,
+      0.05072
+    ],
+    "metadata": {
+      "aum": 10258.88,
+      "expense_ratio": 0.0043,
+      "sharpe_ratio": 2.38,
+      "beta": 1.21,
+      "std_dev": 0.38
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Axis Treasury Advantage -Reg. (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/axis-treasury-advantage-fund-regular-plan/MAA005",
+    "engineered_vector": [
+      0.192313,
+      0.069,
+      0.587177,
+      0,
+      0.65,
+      0.3,
+      0.05056
+    ],
+    "metadata": {
+      "aum": 3052.63,
+      "expense_ratio": 0.0067,
+      "sharpe_ratio": 1.79,
+      "beta": 1.22,
+      "std_dev": 0.38
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Ultra Short Fund - DP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-ultra-short-fund-direct-plan/MDS625",
+    "engineered_vector": [
+      0.093195,
+      0.0706,
+      0.596709,
+      0,
+      1.0,
+      0.3,
+      0.05168
+    ],
+    "metadata": {
+      "aum": 1562.98,
+      "expense_ratio": 0.003,
+      "sharpe_ratio": 3.03,
+      "beta": 0.85,
+      "std_dev": 0.28
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Ultra Short Duration Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-ultra-short-duration-fund-direct-plan-growth/MLI607",
+    "engineered_vector": [
+      0.069227,
+      0.0697,
+      0.565724,
+      0,
+      1.0,
+      0.3,
+      0.05136
+    ],
+    "metadata": {
+      "aum": 512.9,
+      "expense_ratio": 0.0024,
+      "sharpe_ratio": 3.13,
+      "beta": 0.9,
+      "std_dev": 0.25
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Bank of India Ultra Short Duration Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/bank-of-india-ultra-short-duration-fund-direct-plan-growth/MBA085",
+    "engineered_vector": [
+      0.146968,
+      0.0663,
+      0.53995,
+      0,
+      1.0,
+      0.3,
+      0.04976
+    ],
+    "metadata": {
+      "aum": 283.3,
+      "expense_ratio": 0.0034,
+      "sharpe_ratio": 1.0,
+      "beta": 1.05,
+      "std_dev": 0.25
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Ultra Short Fund - RP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-ultra-short-fund-regular-plan/MDS050",
+    "engineered_vector": [
+      0.27233,
+      0.0638,
+      0.603308,
+      0,
+      1.0,
+      0.259063,
+      0.07224
+    ],
+    "metadata": {
+      "aum": 2087.26,
+      "expense_ratio": 0.0103,
+      "sharpe_ratio": 0.38,
+      "beta": 0.85,
+      "std_dev": 0.28
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Bank of India Ultra Short Duration Fund - R (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/bank-of-india-ultra-short-duration-fund-regular-growth/MBA013",
+    "engineered_vector": [
+      0.251845,
+      0.0615,
+      0.497681,
+      0,
+      0.65,
+      0.29005,
+      0.07068
+    ],
+    "metadata": {
+      "aum": 90.89,
+      "expense_ratio": 0.0085,
+      "sharpe_ratio": -0.77,
+      "beta": 1.02,
+      "std_dev": 0.24
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "CR Liquid Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/canara-robeco-liquid-fund-direct-plan/MCA237",
+    "engineered_vector": [
+      0.174242,
+      0.0649,
+      0.62736,
+      0,
+      0.65,
+      0.3,
+      0.07284
+    ],
+    "metadata": {
+      "aum": 953.06,
+      "expense_ratio": 0.0008,
+      "sharpe_ratio": 3.25,
+      "beta": 1.47,
+      "std_dev": 0.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Liquidity Fund - Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-liquidity-fund-direct-plan/MDS613",
+    "engineered_vector": [
+      0.141877,
+      0.0649,
+      0.713857,
+      0,
+      1.0,
+      0.3,
+      0.07284
+    ],
+    "metadata": {
+      "aum": 9041.01,
+      "expense_ratio": 0.001,
+      "sharpe_ratio": 3.32,
+      "beta": 1.37,
+      "std_dev": 0.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Franklin India Liquid Fund - SIP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-liquid-fund-super-institutional-plan/MTE083",
+    "engineered_vector": [
+      0.189193,
+      0.0646,
+      0.618534,
+      0,
+      0.65,
+      0.3,
+      0.07284
+    ],
+    "metadata": {
+      "aum": 772.07,
+      "expense_ratio": 0.002,
+      "sharpe_ratio": 2.45,
+      "beta": 1.42,
+      "std_dev": 0.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Baroda Pioneer Liquid -Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/baroda-pioneer-liquid-fund-direct-plan-b/MBO094",
+    "engineered_vector": [
+      0.13357,
+      0.0646,
+      0.668675,
+      0,
+      0.65,
+      0.3,
+      0.0726
+    ],
+    "metadata": {
+      "aum": 3249.44,
+      "expense_ratio": 0.0014,
+      "sharpe_ratio": 3.25,
+      "beta": 1.33,
+      "std_dev": 0.18
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Liquidity Fund - Regular (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-liquidity-fund-regular-plan/MDS047",
+    "engineered_vector": [
+      0.180244,
+      0.0643,
+      0.67465,
+      0,
+      0.65,
+      0.3,
+      0.0726
+    ],
+    "metadata": {
+      "aum": 3324.52,
+      "expense_ratio": 0.0022,
+      "sharpe_ratio": 2.38,
+      "beta": 1.38,
+      "std_dev": 0.17
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Hybrid Equity Fund - DP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-hybrid-equity-fund-direct-plan/MIB226",
+    "engineered_vector": [
+      0.584075,
+      0.1763,
+      0.045916,
+      0.995268,
+      0.65,
+      0.293311,
+      0.26028
+    ],
+    "metadata": {
+      "aum": 4.63,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Hybrid Equity Fund - RP (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-hybrid-equity-fund-regular-plan/MIB224",
+    "engineered_vector": [
+      0.584104,
+      0.1663,
+      0.181117,
+      0.995268,
+      0.65,
+      0.289328,
+      0.24744
+    ],
+    "metadata": {
+      "aum": 189.22,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Equity Hybrid Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund-direct-plan/MSB516",
+    "engineered_vector": [
+      0.404311,
+      0.0892,
+      0.289009,
+      0.665615,
+      1.0,
+      0.3,
+      0.04008
+    ],
+    "metadata": {
+      "aum": 2219.27,
+      "expense_ratio": 0.0072,
+      "sharpe_ratio": 0.87,
+      "beta": 1.0,
+      "std_dev": 8.82
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "SBI Equity Hybrid Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/sbi-equity-hybrid-fund/MSB063",
+    "engineered_vector": [
+      0.467318,
+      0.0832,
+      0.39452,
+      0.664826,
+      1.0,
+      0.208783,
+      0.03728
+    ],
+    "metadata": {
+      "aum": 34653.01,
+      "expense_ratio": 0.0138,
+      "sharpe_ratio": 0.79,
+      "beta": 1.0,
+      "std_dev": 8.81
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "DSP Equity & Bond Fund-RP-(G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/dsp-equity-bond-fund-regular-plan/MDS005",
+    "engineered_vector": [
+      0.501766,
+      0.075,
+      0.325503,
+      0.700315,
+      1.0,
+      0.1359,
+      0.06228
+    ],
+    "metadata": {
+      "aum": 5979.61,
+      "expense_ratio": 0.017,
+      "sharpe_ratio": 0.92,
+      "beta": 1.0,
+      "std_dev": 9.26
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "LIC MF Conservative Hybrid Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-conservative-hybrid-fund-direct-plan-growth/MJB178",
+    "engineered_vector": [
+      0.352642,
+      0.0654,
+      0.161074,
+      0.234227,
+      0.65,
+      0.184525,
+      0.08868
+    ],
+    "metadata": {
+      "aum": 19.21,
+      "expense_ratio": 0.0142,
+      "sharpe_ratio": 0.24,
+      "beta": 1.02,
+      "std_dev": 3.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "LIC MF Conservative Hybrid Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/lic-mf-conservative-hybrid-fund-growth/MJB020",
+    "engineered_vector": [
+      0.443897,
+      0.0545,
+      0.20371,
+      0.234227,
+      0.65,
+      0.020117,
+      0.07536
+    ],
+    "metadata": {
+      "aum": 61.5,
+      "expense_ratio": 0.0231,
+      "sharpe_ratio": -0.05,
+      "beta": 1.02,
+      "std_dev": 3.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Arbitrage -Dir (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-arbitrage-fund-direct-plan/MLI572",
+    "engineered_vector": [
+      0.043559,
+      0.0729,
+      0.502776,
+      0,
+      1.0,
+      0.3,
+      0.08388
+    ],
+    "metadata": {
+      "aum": 291.54,
+      "expense_ratio": 0.0039,
+      "sharpe_ratio": 3.48,
+      "beta": 1.0,
+      "std_dev": 0.37
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HSBC Arbitrage Fund - DP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hsbc-arbitrage-fund-direct-plan/MCC504",
+    "engineered_vector": [
+      0.048474,
+      0.0709,
+      0.548086,
+      0,
+      1.0,
+      0.3,
+      0.08256
+    ],
+    "metadata": {
+      "aum": 906.85,
+      "expense_ratio": 0.0028,
+      "sharpe_ratio": 2.77,
+      "beta": 1.0,
+      "std_dev": 0.36
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Invesco India Arbitrage Fund (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/invesco-india-arbitrage-fund/MLI032",
+    "engineered_vector": [
+      0.173684,
+      0.0669,
+      0.493525,
+      0,
+      1.0,
+      0.252965,
+      0.07968
+    ],
+    "metadata": {
+      "aum": 252.36,
+      "expense_ratio": 0.0106,
+      "sharpe_ratio": 1.41,
+      "beta": 1.0,
+      "std_dev": 0.37
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HSBC Arbitrage Fund - RP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hsbc-arbitrage-fund-regular-plan/MCC502",
+    "engineered_vector": [
+      0.203717,
+      0.0652,
+      0.583821,
+      0,
+      1.0,
+      0.275417,
+      0.07836
+    ],
+    "metadata": {
+      "aum": 2310.16,
+      "expense_ratio": 0.0093,
+      "sharpe_ratio": 0.6,
+      "beta": 1.0,
+      "std_dev": 0.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HSBC Arbitrage Fund - RP - (MIDCW)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hsbc-arbitrage-fund-regular-plan-midcw-/MCC507",
+    "engineered_vector": [
+      0.23013,
+      0.0029,
+      0.450404,
+      0.047319,
+      1.0,
+      0.245217,
+      0.00912
+    ],
+    "metadata": {
+      "aum": 2310.16,
+      "expense_ratio": 0.0093,
+      "sharpe_ratio": 0.39,
+      "beta": 1.0,
+      "std_dev": 0.98
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Nippon Money Market Fund - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/nippon-india-money-market-fund-direct-plan/MRC984",
+    "engineered_vector": [
+      0.28163,
+      0.0707,
+      0.627772,
+      0,
+      1.0,
+      0.3,
+      0.05128
+    ],
+    "metadata": {
+      "aum": 6085.46,
+      "expense_ratio": 0.0022,
+      "sharpe_ratio": 2.83,
+      "beta": 1.73,
+      "std_dev": 0.34
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Franklin India Money Market Fund",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/franklin-india-money-market-fund-direct-plan-growth/MTE365",
+    "engineered_vector": [
+      0.290218,
+      0.0699,
+      0.505986,
+      0,
+      0.65,
+      0.3,
+      0.05072
+    ],
+    "metadata": {
+      "aum": 282.02,
+      "expense_ratio": 0.0014,
+      "sharpe_ratio": 2.62,
+      "beta": 1.76,
+      "std_dev": 0.35
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "HSBC Money Market Fund - DP - (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/hsbc-money-market-fund-direct-plan/MCC303",
+    "engineered_vector": [
+      0.263656,
+      0.0698,
+      0.533338,
+      0,
+      0.65,
+      0.3,
+      0.05112
+    ],
+    "metadata": {
+      "aum": 490.15,
+      "expense_ratio": 0.0015,
+      "sharpe_ratio": 2.45,
+      "beta": 1.66,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Money Market Scheme - D (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-direct-plan/MKM556",
+    "engineered_vector": [
+      0.277414,
+      0.0696,
+      0.640352,
+      0,
+      1.0,
+      0.3,
+      0.05056
+    ],
+    "metadata": {
+      "aum": 7831.44,
+      "expense_ratio": 0.0021,
+      "sharpe_ratio": 2.71,
+      "beta": 1.71,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Kotak Money Market Scheme (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/kotak-money-market-scheme-regular-plan/MKM047",
+    "engineered_vector": [
+      0.301522,
+      0.069,
+      0.584831,
+      0,
+      0.65,
+      0.3,
+      0.0504
+    ],
+    "metadata": {
+      "aum": 1872.45,
+      "expense_ratio": 0.0035,
+      "sharpe_ratio": 2.35,
+      "beta": 1.71,
+      "std_dev": 0.33
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Equity Advantage -Direct (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-equity-advantage-fund-direct-plan/MIB143",
+    "engineered_vector": [
+      0.583875,
+      0.2584,
+      0.116415,
+      0.995268,
+      0.65,
+      0.3,
+      0.384
+    ],
+    "metadata": {
+      "aum": 33.04,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "IDBI Equity Advantage - Reg (G)",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/idbi-equity-advantage-fund-regular-plan/MIB142",
+    "engineered_vector": [
+      0.583919,
+      0.2444,
+      0.218816,
+      0.995268,
+      1.0,
+      0.3,
+      0.36828
+    ],
+    "metadata": {
+      "aum": 490.38,
+      "expense_ratio": 0.01,
+      "sharpe_ratio": 0.01,
+      "beta": 1.0,
+      "std_dev": 13.0
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Aditya Birla Sun Life ELSS Tax Relief 96",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/aditya-birla-sun-life-elss-tax-saver-fund-direct-plan/MBS847",
+    "engineered_vector": [
+      0.558684,
+      0.0916,
+      0.280663,
+      0.94795,
+      0.65,
+      0.271159,
+      0.09
+    ],
+    "metadata": {
+      "aum": 2435.14,
+      "expense_ratio": 0.0097,
+      "sharpe_ratio": 0.67,
+      "beta": 0.93,
+      "std_dev": 12.4
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Aditya Birla Sun Life ELSS Tax Relief 96",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/aditya-birla-sun-life-elss-tax-saver-fund-regular-plan/MBS291",
+    "engineered_vector": [
+      0.626201,
+      0.083,
+      0.338626,
+      0.94795,
+      1.0,
+      0.138811,
+      0.07848
+    ],
+    "metadata": {
+      "aum": 11044.61,
+      "expense_ratio": 0.0169,
+      "sharpe_ratio": 0.61,
+      "beta": 0.93,
+      "std_dev": 12.4
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  },
+  {
+    "fund_name": "Aditya Birla Sun Life ELSS Tax Relief 96",
+    "fund_link": "https://www.moneycontrol.com/mutual-funds/nav/aditya-birla-sun-life-elss-tax-saver-fund-direct-plan/MBS848",
+    "engineered_vector": [
+      0.559236,
+      0.0784,
+      0.280378,
+      0.949527,
+      0.65,
+      0.258959,
+      0.08232
+    ],
+    "metadata": {
+      "aum": 2435.14,
+      "expense_ratio": 0.0097,
+      "sharpe_ratio": 0.67,
+      "beta": 0.93,
+      "std_dev": 12.42
+    },
+    "notes": "Vector ready for cosine similarity and ML models"
+  }
+]
